@@ -1,0 +1,12 @@
+<div class="newsletter-form">
+ <div class="content-form">
+   <div class="form-left">
+      <input type="email" name="EMAIL" placeholder="Enter E-Mail Address" required />
+   </div>
+   <div class="form-right">
+     <span class="btn-black form-action">
+       <input class="newsletter-submit" type="submit" value="Subscribe" />
+     </span>
+   </div>  
+ </div>
+</div>

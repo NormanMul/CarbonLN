@@ -1,0 +1,11 @@
+<div class="row">
+   <div class="col-sm-6 col-xs-12">[text* your-name placeholder "Your Name *"] </div>
+   <div class="col-sm-6 col-xs-12">[email* your-email placeholder "Your Email *"] </div>
+</div>
+<div class="row">
+   <div class="col-sm-12 col-xs-12">[text your-subject placeholder "Your Subject"] </div>
+</div>
+<div class="row">
+   <div class="col-sm-12 col-xs-12">[textarea rows:4 your-message placeholder "Your message"] </div>
+   <div class="col-sm-12 col-xs-12 action text-left"><span class="btn-theme-2 form-action">[submit "Send Message"]</span></div>
+</div>
